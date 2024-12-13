@@ -49,7 +49,7 @@ Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) p
 - **Yuverly Verdezoto**
 
 ## Capturas de Funcionamiento
-![Vista previa de la Pokédex](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
+![Vista previa de la Pokédex](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/imas.png?raw=true)
 ![Vista previa el Juego de Cartas](https://github.com/YuverlyHidokun/Flutter_PokemonAPI/blob/master/lib/ima2.png?raw=true)
 
 
