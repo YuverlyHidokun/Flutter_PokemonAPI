@@ -1,16 +1,60 @@
-# pokemon_api
+# Pokémon API App
 
-A new Flutter project.
+Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) para buscar y mostrar información detallada sobre Pokémon. Los usuarios pueden buscar Pokémon por nombre y ver todas sus características, incluyendo su imagen.
 
-## Getting Started
+## Características principales
+- Búsqueda de Pokémon por nombre.
+- Visualización de características completas del Pokémon:
+  - Habilidades.
+  - Movimientos.
+  - Estadísticas.
+  - Imagen oficial.
+- Diseño temático inspirado en una Pokédex, con tonos morados.
+- Navegación entre secciones a través de un TabBar.
 
-This project is a starting point for a Flutter application.
+## Tecnologías utilizadas
+- Flutter
+- Dart
+- HTTP para consumir APIs
 
-A few resources to get you started if this is your first Flutter project:
+## Instalación
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tuusuario/pokemon_api.git
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. Entra al directorio del proyecto:
+   ```bash
+   cd pokemon_api
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Instala las dependencias:
+   ```bash
+   flutter pub get
+   ```
+
+4. Ejecuta la aplicación:
+   ```bash
+   flutter run
+   ```
+
+## Uso
+1. Ingresa el nombre de un Pokémon en el campo de búsqueda y presiona el botón.
+2. Explora la información detallada del Pokémon en pantalla.
+3. Navega entre las pestañas para acceder a otras funcionalidades.
+
+## Autores
+- **Eduardo Caza**
+- **Luis Guaygua**
+- **Yuverly Verdezoto**
+
+##Capturas de Funcionamiento
+
+
+## Recursos
+- [PokéAPI](https://pokeapi.co/): API utilizada para obtener los datos de los Pokémon.
+- [Documentación de Flutter](https://docs.flutter.dev/): Recursos y guías para desarrollar en Flutter.
+
+## Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+
