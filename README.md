@@ -20,7 +20,7 @@ Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) p
 ## Instalación
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/pokemon_api.git
+   git clone https://github.com/YuverlyHidokun/Flutter_PokemonAPI.git
    ```
 
 2. Entra al directorio del proyecto:
@@ -48,7 +48,7 @@ Esta es una aplicación Flutter que utiliza la [PokéAPI](https://pokeapi.co/) p
 - **Luis Guaygua**
 - **Yuverly Verdezoto**
 
-##Capturas de Funcionamiento
+## Capturas de Funcionamiento
 
 
 ## Recursos
